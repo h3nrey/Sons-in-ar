@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="manteigaTarget" size="0.100000 0.109978" />
+    <ImageTarget name="redacaotarget" size="0.120000 0.166544" />
+    <ImageTarget name="nescau" size="0.300000 0.252433" />
+    <ImageTarget name="quadrotarget" size="1.800000 1.149570" />
+    <ImageTarget name="contoaiatarget" size="0.020000 0.026233" />
+    <ImageTarget name="autoDaBarcaDoInferno" size="0.120000 0.173474" />
+    <ImageTarget name="capitaesareiatarger" size="0.124000 0.173117" />
+  </Tracking>
+</QCARConfig>
